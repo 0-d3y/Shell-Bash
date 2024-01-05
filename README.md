@@ -1,6 +1,13 @@
 ![SHell Bash Logo](https://files.catbox.moe/3q2w8k.png)
-
 # SHELL BASH
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/release)
+[![GitHub issues](https://img.shields.io/github/issues/mr-sami-x/sami_ai)](https://github.com/mr-sami-x/sami_ai/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mr-sami-x/sami_ai)](https://github.com/mr-sami-x/sami_ai/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mr-sami-x/sami_ai)](https://github.com/mr-sami-x/sami_ai/forks)
+
+
+
 This tool creates a shell in Bash to make a reverse connection to Linux servers‍This tool creates a shell in Bash to make a reverse connection to Linux servers‍
 ### programming language : 
 ```Python3.11.0```
